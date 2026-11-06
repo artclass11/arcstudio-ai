@@ -11,10 +11,11 @@
       "asset_filename": "arcstudio91-reel.mp4",
       "asset_available_locally": true,
       "public_media_url": "https://artclass.floot.app/_cdn/static/613ae95f-a09f-498c-bdb0-93f27c73f0a8-arcstudio91-reel.mp4",
-      "buffer_status": "scheduled_automatic",
+      "buffer_status": "sending",
       "buffer_post_id": "6aed59347b7e47e8f40a3001",
       "buffer_due_at": "2026-11-06T04:47:00.000Z",
-      "media_binary_location": "Floot public static asset CDN; not GitHub binary"
+      "media_binary_location": "Floot public static asset CDN; not GitHub binary",
+      "buffer_mode": "shareNow"
     }
   ]
 }
