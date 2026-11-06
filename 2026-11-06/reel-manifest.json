@@ -1,0 +1,62 @@
+{
+  "date": "2026-11-06",
+  "brand": "ARCSTUDIO91",
+  "instagram_account": "@arcstudio91",
+  "platform": "instagram",
+  "format": "reel",
+  "editorial_topic": "Passive cooling through exterior shading and cross-ventilation, with local climate and outdoor air quality caveats",
+  "public_language": "Marathi (Devanagari)",
+  "asset": {
+    "local_filename": "arcstudio91-reel.mp4",
+    "local_path": "/mnt/data/reel_work/arcstudio/arcstudio91-reel.mp4",
+    "mime_type": "video/mp4",
+    "size_bytes": 2178621,
+    "sha256": "b1d63ff65b7708a295bd57a8e0512c251e9d167af39405b8a1da88a0b94a5451",
+    "duration_seconds": 24,
+    "width": 1080,
+    "height": 1920,
+    "fps": 24,
+    "video_codec": "H.264",
+    "audio_codec": "AAC",
+    "audio": "Original procedurally composed ambient instrumental; no spoken TTS"
+  },
+  "caption": "घर थंड ठेवण्याचा विचार फक्त एसीनंतर सुरू होत नाही—तो आराखड्यातून सुरू होतो. खिडक्यांवरील बाह्य छाया, वाऱ्याच्या दिशेनुसार प्रवेश व निर्गमनाची उघडी जागा, आणि स्थानिक हवामानानुसार खिडक्यांचे नियोजन उपयोगी ठरू शकते. नैसर्गिक वायुवीजन बाहेरील तापमान, आर्द्रता, वारा आणि हवेच्या गुणवत्तेवर अवलंबून असते; प्रत्येक जागेसाठी वेगळा अभ्यास आवश्यक.\n\nहे संकल्पनात्मक motion graphic आहे; प्रत्यक्ष बांधलेल्या प्रकल्पाचा फोटो नाही.\n\nस्रोत: US DOE Building Science Education — https://bsesc.energy.gov/energy-basics/natural-ventilation-and-cooling ; US DOE Energy Saver — https://www.energy.gov/sites/default/files/2021-08/ES-Passive%20Solar%20design_081321.pdf ; PNNL Building America Solution Center — https://basc.pnnl.gov/resource-guides/passive-and-low-energy-cooling\n\nARCSTUDIO91 | @arcstudio91\nसंपर्क: +91 9921894495\nवेबसाइटसाठी प्रोफाइलमधील दुवा पाहा.\n#वास्तुकला #हवामानपूरकडिझाइन #नैसर्गिकवायुवीजन #ARCSTUDIO91",
+  "narration_script": "घर थंड ठेवण्यासाठी विचार आराखड्यापासून सुरू होतो. खिडक्यांवरील बाह्य छाया उन्हाची तीव्रता कमी करण्यास मदत करू शकते. योग्य दिशेने ठेवलेल्या उघड्या जागांमुळे हवा घरातून वाहू शकते. पण नैसर्गिक वायुवीजन बाहेरील तापमान, आर्द्रता, वारा आणि हवेच्या गुणवत्तेवर अवलंबून असते. म्हणून प्रत्येक जागेसाठी स्थानिक हवामानाचा अभ्यास आवश्यक.",
+  "sources": [
+    {
+      "publisher": "U.S. Department of Energy — Building Science Education",
+      "title": "Natural Ventilation and Cooling",
+      "url": "https://bsesc.energy.gov/energy-basics/natural-ventilation-and-cooling"
+    },
+    {
+      "publisher": "U.S. Department of Energy — Energy Saver",
+      "title": "Passive Solar Design",
+      "url": "https://www.energy.gov/sites/default/files/2021-08/ES-Passive%20Solar%20design_081321.pdf"
+    },
+    {
+      "publisher": "Pacific Northwest National Laboratory",
+      "title": "Passive and Low-Energy Cooling",
+      "url": "https://basc.pnnl.gov/resource-guides/passive-and-low-energy-cooling"
+    }
+  ],
+  "visual_disclosure": "Original procedural architectural concept motion graphics; not a photograph or depiction of a completed project. Dark pine/near-black with warm ivory/white visual identity. No external stock assets.",
+  "production": "Rendered locally with free/open-source FFmpeg and Python/Pillow-based motion graphics. Original programmatic ambient score. No paid service or generation credits. No TTS engine was executed or auditioned; this is text-led/music-led and includes a separate voice script.",
+  "qa": {
+    "file_exists": true,
+    "ffprobe_verified": true,
+    "dimensions": "1080x1920",
+    "duration_seconds": 24,
+    "fps": 24,
+    "video_audio_streams": [
+      "H.264 video",
+      "AAC audio"
+    ],
+    "phone_number_checked": true,
+    "caption_language": "Marathi",
+    "visual_review": "Completed; Marathi captions and Latin-digit contact line visually reviewed.",
+    "buffer_submission": "BLOCKED_NOT_SUBMITTED",
+    "reason": "The current GitHub connector can write text but cannot transfer this local MP4 binary to the public repository. No verified anonymous raw MP4 URL exists, so Buffer was not sent an invalid asset.",
+    "buffer_post_id": null,
+    "buffer_status": "not_submitted"
+  }
+}
