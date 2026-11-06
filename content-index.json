@@ -11,11 +11,59 @@
       "asset_filename": "arcstudio91-reel.mp4",
       "asset_available_locally": true,
       "public_media_url": "https://artclass.floot.app/_cdn/static/613ae95f-a09f-498c-bdb0-93f27c73f0a8-arcstudio91-reel.mp4",
-      "buffer_status": "sending",
+      "buffer_status": "sent",
       "buffer_post_id": "6aed59347b7e47e8f40a3001",
-      "buffer_due_at": "2026-11-06T04:47:00.000Z",
+      "buffer_due_at": "2026-11-06T04:37:42.097Z",
       "media_binary_location": "Floot public static asset CDN; not GitHub binary",
-      "buffer_mode": "shareNow"
+      "buffer_mode": "shareNow",
+      "buffer_sent_at": "2026-11-06T04:38:41.025Z"
+    },
+    {
+      "date": "2026-11-06",
+      "format": "feed",
+      "topic": "Adaptive reuse of an old industrial shell as a community learning / repair hub",
+      "manifest": "2026-11-06/post-manifest.json",
+      "asset_filename": "feed/2026-11-06_feed.jpg",
+      "public_media_url": "https://artclass.floot.app/_cdn/static/62447282-1a13-45f3-b40f-454cc778f547-2026-11-06-feed.jpg",
+      "media_binary_location": "Floot public static CDN; not GitHub binary",
+      "buffer_post_id": "6aed5e677b7e47e8f40b2029",
+      "buffer_status": "scheduled",
+      "buffer_due_at": "2026-11-06T05:31:00.000Z",
+      "buffer_mode": "addToQueue"
+    },
+    {
+      "date": "2026-11-06",
+      "format": "carousel",
+      "topic": "Age-friendly step-free apartment access and daily usability",
+      "manifest": "2026-11-06/post-manifest.json",
+      "asset_filenames": [
+        "carousel/01_accessible-home.jpg",
+        "carousel/02_step-free-route.jpg",
+        "carousel/03_usable-details.jpg",
+        "carousel/04_checklist-contact.jpg"
+      ],
+      "public_media_urls": [
+        "https://artclass.floot.app/_cdn/static/6e8e07cf-34a7-4cc4-a959-6d7e50d6ce7d-2026-11-06-carousel-01.jpg",
+        "https://artclass.floot.app/_cdn/static/8fa85124-4664-4153-849b-62f6968975bc-2026-11-06-carousel-02.jpg",
+        "https://artclass.floot.app/_cdn/static/1a59e6cb-5961-4cf1-bfdb-953e70e39e87-2026-11-06-carousel-03.jpg",
+        "https://artclass.floot.app/_cdn/static/523f1962-e99f-40dd-8670-9a293f5e9f18-2026-11-06-carousel-04.jpg"
+      ],
+      "media_binary_location": "Floot public static CDN; not GitHub binaries",
+      "buffer_post_id": "6aed5e6907f945cca940586f",
+      "buffer_status": "scheduled",
+      "buffer_due_at": "2026-11-06T07:15:00.000Z",
+      "buffer_mode": "addToQueue"
+    },
+    {
+      "date": "2026-11-06",
+      "format": "reel",
+      "topic": "Rain-ready public street: bioswales, permeable paving and green-grey drainage",
+      "manifest": "2026-11-06/post-manifest.json",
+      "asset_filename": "reel/2026-11-06_reel.mp4",
+      "asset_available_locally": true,
+      "public_media_url": null,
+      "buffer_status": "not_submitted",
+      "reason": "Public upload blocked by DNS failure on large-file transfer. No Buffer post created."
     }
   ]
 }
