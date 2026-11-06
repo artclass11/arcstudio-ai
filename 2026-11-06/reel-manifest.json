@@ -57,13 +57,13 @@
     "caption_language": "Marathi",
     "visual_review": "Completed; Marathi captions and Latin-digit contact line visually reviewed.",
     "buffer_submission": "SCHEDULED_AUTOMATIC",
-    "reason": "Buffer accepted the video as an Instagram Reel in automatic publishing mode; GitHub stores the manifest/index while the MP4 binary is served from the published public CDN because this GitHub connector cannot transfer binary MP4 bytes.",
+    "reason": "Buffer get_post confirms the prior 2026-11-06 passive-cooling Reel is sent. MP4 binary remains on Floot public CDN, not in GitHub.",
     "buffer_post_id": "6aed59347b7e47e8f40a3001",
-    "buffer_status": "sending",
+    "buffer_status": "sent",
     "buffer_scheduling_type": "automatic",
-    "buffer_due_at": "2026-11-06T04:37:30.602Z",
+    "buffer_due_at": "2026-11-06T04:37:42.097Z",
     "buffer_mode": "shareNow",
     "instagram_channel": "@arcstudio91",
-    "sent_at": null
+    "sent_at": "2026-11-06T04:38:41.025Z"
   }
 }
