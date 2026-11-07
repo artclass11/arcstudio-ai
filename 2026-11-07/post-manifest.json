@@ -1,0 +1,163 @@
+{
+  "date": "2026-11-07",
+  "brand": "ARCSTUDIO91",
+  "instagram_account": "@arcstudio91",
+  "platform": "Instagram",
+  "language": "Marathi (Devanagari)",
+  "official_website": "https://headless-jcrzxssmnuf-myastate-1408.wix-site-host.com/",
+  "contact": "+91 9921894495",
+  "research_checked_date": "2026-11-07",
+  "review_window": {
+    "recent_context": "2026-11-05 package ledger and 2026-11-06 public archive and recent Buffer posts reviewed.",
+    "limitation": "Full 30/90-day archive and public profile crawl were not accessible; no complete historical uniqueness guarantee."
+  },
+  "formats": [
+    {
+      "format": "feed",
+      "topic": "Residential balcony thermal-bridge connection",
+      "asset_filename": "2026-11-07_ARCSTUDIO91_FEED_BALCONY-THERMAL-BRIDGE_1080x1350.jpg",
+      "dimensions": [
+        1080,
+        1350
+      ],
+      "bytes": 264545,
+      "sha256": "fe44748a8f2b563ef6c5e3ad3480e9e0070c4b6e05fd10d67ef67f6c76159755",
+      "caption": "काँक्रीटची बाल्कनी स्लॅब भिंतीतून आतल्या मजल्याशी सलग जोडली असेल, तर काही हवामानांत ती उष्णता आत-बाहेर नेणारा मार्ग ठरू शकते. यालाच थर्मल ब्रिज म्हणतात.\n\nथर्मल-ब्रेक कनेक्टर, स्वतंत्र आधार किंवा सलग बाह्य इन्सुलेशन यांसारखे पर्याय डिझाइनच्या टप्प्यावर तपासता येतात. मात्र ही जोडणी भारवाहक असते. म्हणून संरचनात्मक अभियंता, जलरोधक तपशील, अग्निसुरक्षा, गंज, स्थानिक हवामान आणि इमारतीतील आर्द्रता यांचा एकत्रित विचार आवश्यक आहे. प्रत्येक इमारतीला एकच तपशील लागू होत नाही.\n\nहे मूळ संकल्पनाचित्र आहे; प्रत्यक्ष प्रकल्पाचा फोटो नाही.\n\nवास्तुरचना व जागा नियोजनासाठी WhatsApp: +91 9921894495\nवेबसाइट: https://headless-jcrzxssmnuf-myastate-1408.wix-site-host.com/\n\n#ARCSTUDIO91 #बाल्कनीडिझाइन #थर्मलब्रिज #वास्तुरचना #इमारतआवरण #ऊर्जाक्षमता #बांधकामतपशील",
+      "alt_text": "गडद पार्श्वभूमीवरील संकल्पनात्मक भिंत-छेद. डावीकडे बाहेरील बाल्कनी, उजवीकडे आतील खोली, मध्ये काँक्रीटची स्लॅब आणि भिंतीच्या जोडणीवर दाखवलेला भारवाहक थर्मल-ब्रेक घटक.",
+      "visual_disclosure": "मूळ प्रक्रियात्मक संकल्पनाचित्र; प्रत्यक्ष प्रकल्पाचा फोटो नाही.",
+      "media_status": "not_uploaded",
+      "buffer_status": "not_submitted",
+      "reason": "Floot S3 DNS resolution failed; GitHub binary transfer unavailable; no verified direct public media URL."
+    },
+    {
+      "format": "carousel",
+      "topic": "Rooftop PV due diligence: roof age, structural capacity, shading, drainage, maintenance access and sourcing",
+      "slides": [
+        {
+          "order": 1,
+          "filename": "2026-11-07_ARCSTUDIO91_CAROUSEL_01_ROOFTOP-PV-OVERVIEW_1080x1350.jpg",
+          "dimensions": [
+            1080,
+            1350
+          ],
+          "bytes": 249883,
+          "sha256": "d87972dda7d5097f2d81c01ab2804115ea249f0346d9e63e4f46c83edbecf1d0",
+          "alt_text": "संकल्पनात्मक छत-आराखडा: पॅनेलची मांडणी, मोकळा सेवा-मार्ग आणि पाण्याच्या निचऱ्याचे बिंदू."
+        },
+        {
+          "order": 2,
+          "filename": "2026-11-07_ARCSTUDIO91_CAROUSEL_02_ROOF-SUITABILITY_1080x1350.jpg",
+          "dimensions": [
+            1080,
+            1350
+          ],
+          "bytes": 218820,
+          "sha256": "d302da5d43925e927330d6eda4d9d48cee7f238ea36e2001e2fd43767776a803",
+          "alt_text": "छताचा बाजूचा छेद: पॅनेल, सावली देणारी अडथळा-रचना आणि छताचे वय, भारक्षमता, सावली, दिशा व उतार यांची तपासणी यादी."
+        },
+        {
+          "order": 3,
+          "filename": "2026-11-07_ARCSTUDIO91_CAROUSEL_03_DRAINAGE-STRUCTURE-ACCESS_1080x1350.jpg",
+          "dimensions": [
+            1080,
+            1350
+          ],
+          "bytes": 249452,
+          "sha256": "d21ce4ebd82e10e612079629306dad85d017f854fd6c4cdf5f051a878576b9b3",
+          "alt_text": "सौर पॅनेलची माउंटिंग रेल, छतावरील थर आणि निचऱ्याचा मार्ग दाखवणारे विस्फोटित संकल्पचित्र; देखभाल प्रवेश, भार व जलरोधकता यांवरील सूचना."
+        },
+        {
+          "order": 4,
+          "filename": "2026-11-07_ARCSTUDIO91_CAROUSEL_04_SOURCING-CONTACT_1080x1350.jpg",
+          "dimensions": [
+            1080,
+            1350
+          ],
+          "bytes": 230154,
+          "sha256": "f63330675a00f6b6017ad72df66dbe9a866168987f281cb5de0078beadb4bdda",
+          "alt_text": "सौर मॉड्यूल, इन्व्हर्टर, माउंटिंग रेल, जलरोधकता, केबल-सुरक्षा आणि देखभाल यांची पुरवठादार तपासणी यादी; वर संपर्क क्रमांक, खाली सेवा-सूची आणि अधिकृत वेबसाइट.",
+          "phone_artwork_placement": "top of slide 4 only"
+        }
+      ],
+      "caption": "छतावर सौर पॅनेल बसवण्याआधी फक्त पॅनेलची क्षमता किंवा किंमत पाहू नका. छताचे वय, संरचनात्मक भारक्षमता, सावली, छताची जलरोधकता, पाण्याचा निचरा, देखभालीचा मार्ग आणि अग्निसुरक्षा तपासा.\n\nछताची दुरुस्ती जवळ आली असेल, तर पॅनेल बसवण्याआधी ती करणे योग्य ठरू शकते. माउंटिंग पद्धत, अँकरिंग, वारा-भार, स्थानिक नियम, छताची वॉरंटी आणि भविष्यातील देखभाल यांचा लेखी तपशील घ्या. उत्पादनाचा अंदाज स्थानिक सूर्यस्थिती, सावली, वापर, उपकरणे आणि वीजदरांवर अवलंबून असतो; निश्चित बचतीचे आश्वासन देता येत नाही.\n\nपुरवठादार निवडताना उत्पादन माहिती, चाचणी कागदपत्रे, हमी अटी, जलरोधक जोडणी आणि सेवा-जाळे तपासा. संरचनात्मक व विद्युत डिझाइन पात्र तज्ज्ञांकडून पडताळा.\n\nवास्तुरचना व प्रकल्प समन्वयासाठी WhatsApp: +91 9921894495\nवेबसाइट: https://headless-jcrzxssmnuf-myastate-1408.wix-site-host.com/\n\n#ARCSTUDIO91 #सौरऊर्जा #छतावरीलसौरप्रणाली #वास्तुरचना #इमारतदेखभाल #छतडिझाइन #ऊर्जानियोजन",
+      "visual_disclosure": "मूळ प्रक्रियात्मक माहितीचित्रे; पूर्ण झालेल्या प्रकल्पाची छायाचित्रे नाहीत.",
+      "media_status": "not_uploaded",
+      "buffer_status": "not_submitted",
+      "reason": "Floot S3 DNS resolution failed; GitHub binary transfer unavailable; no verified direct public media URLs."
+    },
+    {
+      "format": "reel",
+      "topic": "Research-stage quadruped robot + BIM inspection",
+      "asset_filename": null,
+      "caption": "बांधकामस्थळी प्रत्येक तपासणीसाठी माणसाला धोकादायक किंवा अवघड भागात पाठवणेच एकमेव मार्ग आहे का? संशोधनात चार पायांचा रोबोट, सेन्सर आणि इमारतीचा डिजिटल आराखडा एकत्र वापरून घटकांची पाहणी करण्याच्या पद्धती विकसित होत आहेत.\n\nकाही अभ्यासांत प्रत्यक्ष जागेवरील चाचण्याही नोंदवल्या आहेत. तरीही हा सर्वत्र उपलब्ध, पूर्ण स्वयंचलित तपासणी उपाय नाही. रोबोट निरीक्षणे गोळा करू शकतो; अंतिम गुणवत्ता, सुरक्षितता आणि बांधकामविषयक निर्णय पात्र अभियंत्यानेच पडताळावेत.\n\nहा विषय संशोधनाधारित स्पष्टीकरणासाठी निवडला आहे. आवश्यक moving footage, हक्क-पुरावे, नैसर्गिक मराठी निवेदन आणि मानवी पूर्ण-पाहणी मंजुरी नसल्याने आजचा Reel प्रकाशित केलेला नाही.\n\nवास्तुरचना व प्रकल्प समन्वयासाठी WhatsApp: +91 9921894495\nवेबसाइट: https://headless-jcrzxssmnuf-myastate-1408.wix-site-host.com/\n\n#ARCSTUDIO91 #बांधकामतंत्रज्ञान #रोबोटिकतपासणी #डिजिटलआराखडा #BIM #वास्तुरचना #इमारतदेखभाल",
+      "alt_text": "आजचा Reel तयार/निर्यात केलेला नाही. प्रस्तावित दृश्यात बांधकामस्थळी चालणारा चार पायांचा निरीक्षण रोबोट, त्याचे सेन्सर आणि डिजिटल इमारत आराखड्याशी तुलना दाखवली जाणार होती.",
+      "media_status": "not_created",
+      "buffer_status": "held",
+      "reason": "DOCS Marketing Agency Reel release gate not met; no final MP4."
+    }
+  ],
+  "sources": [
+    {
+      "publisher": "Building Science Corporation",
+      "title": "BSI-005: A Bridge Too Far",
+      "date": "2008-08-15",
+      "url": "https://www.buildingscience.com/documents/insights/bsi-005-a-bridge-too-far"
+    },
+    {
+      "publisher": "Passive House Institute",
+      "title": "Passive House Portal — Balcony connections",
+      "date": "current database; page date not displayed",
+      "url": "https://database.passivehouse.com/it/components/list/balconyconnection"
+    },
+    {
+      "publisher": "U.S. Department of Energy",
+      "title": "Homeowner’s Guide to Solar",
+      "date": "page date not displayed",
+      "url": "https://www.energy.gov/cmei/systems/homeowners-guide-solar"
+    },
+    {
+      "publisher": "U.S. Department of Energy / Better Buildings Alliance",
+      "title": "Commercial Rooftop Solar FAQ",
+      "date": "2015-12-16",
+      "url": "https://betterbuildingssolutioncenter.energy.gov/sites/default/files/attachments/BBA_Commercial_PV_Roofing_Guide_071715_508.pdf"
+    },
+    {
+      "publisher": "U.S. Department of Energy / FEMP",
+      "title": "Life Cycle of Photovoltaic Systems: Operate and Maintain an Existing Photovoltaic System",
+      "date": "page date not displayed",
+      "url": "https://www.energy.gov/cmei/femp/life-cycle-photovoltaic-systems-operate-and-maintain-existing-photovoltaic-system"
+    },
+    {
+      "publisher": "Aalto University / Automation in Construction",
+      "title": "Automating on-site object inspection with a quadruped robot and BIM",
+      "date": "2026-01",
+      "url": "https://research.aalto.fi/fi/publications/automating-on-site-object-inspection-with-a-quadruped-robot-and-b/"
+    },
+    {
+      "publisher": "Cambridge University Press / Data-Centric Engineering",
+      "title": "Automated surface damage detection with an embodied intelligence robotic platform",
+      "date": "2026-01-22",
+      "url": "https://www.cambridge.org/core/journals/data-centric-engineering/article/automated-surface-damage-detection-with-an-embodied-intelligence-robotic-platform/79CA28A0619A732D7FBF80E25356673C"
+    }
+  ],
+  "media_host": {
+    "repository": "artclass11/arcstudio-ai",
+    "binary_commit_status": "not uploaded",
+    "fallback": "Floot public CDN",
+    "fallback_status": "blocked; S3 DNS resolution failed; no anonymous raw URL verified"
+  },
+  "publishing": {
+    "channel": "@arcstudio91",
+    "channel_connected": true,
+    "channel_unlocked": true,
+    "posts_created": [],
+    "facebook": false,
+    "youtube": false,
+    "status": "NOT PUBLISHED — DIRECT MEDIA HOST NOT VERIFIED"
+  },
+  "qa": {
+    "static_assets": "passed package-level visual/dimension checks with concept-art disclosure",
+    "reel": "HOLD",
+    "overall": "PARTIAL"
+  }
+}
