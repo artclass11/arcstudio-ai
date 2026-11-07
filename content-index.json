@@ -70,12 +70,21 @@
       "format": "feed",
       "topic": "Residential balcony thermal-bridge connection",
       "manifest": "2026-11-07/post-manifest.json",
-      "asset_filename": "2026-11-07_ARCSTUDIO91_FEED_BALCONY-THERMAL-BRIDGE_1080x1350.jpg",
-      "asset_available_locally": true,
-      "public_media_url": null,
-      "media_binary_location": "not uploaded; Floot S3 DNS resolution failed; GitHub binary transfer unavailable",
-      "buffer_status": "not_submitted",
-      "reason": "No verified public direct media URL; no Buffer post created."
+      "asset_filename": "2026-11-07/feed.jpg",
+      "dimensions": [
+        1080,
+        1350
+      ],
+      "bytes": 103190,
+      "sha256": "fcfdb931728066b356532d160c16ae32213bec9d",
+      "public_media_url": "https://raw.githubusercontent.com/artclass11/arcstudio-ai/main/2026-11-07/feed.jpg",
+      "media_binary_location": "Public GitHub raw media in artclass11/arcstudio-ai",
+      "github_actions_run_id": 42379945651,
+      "buffer_status": "sent",
+      "buffer_post_id": "6aef3105d6bbae6fa18f6996",
+      "buffer_post_url": "https://www.instagram.com/p/DfcXLOFlc25/",
+      "buffer_sent_at": "2026-11-07T14:09:17.539Z",
+      "buffer_mode": "shareNow"
     },
     {
       "date": "2026-11-07",
@@ -83,16 +92,28 @@
       "topic": "Rooftop PV due diligence: roof age, structural capacity, shading, drainage, maintenance access and sourcing",
       "manifest": "2026-11-07/post-manifest.json",
       "asset_filenames": [
-        "2026-11-07_ARCSTUDIO91_CAROUSEL_01_ROOFTOP-PV-OVERVIEW_1080x1350.jpg",
-        "2026-11-07_ARCSTUDIO91_CAROUSEL_02_ROOF-SUITABILITY_1080x1350.jpg",
-        "2026-11-07_ARCSTUDIO91_CAROUSEL_03_DRAINAGE-STRUCTURE-ACCESS_1080x1350.jpg",
-        "2026-11-07_ARCSTUDIO91_CAROUSEL_04_SOURCING-CONTACT_1080x1350.jpg"
+        "2026-11-07/carousel-01.jpg",
+        "2026-11-07/carousel-02.jpg",
+        "2026-11-07/carousel-03.jpg",
+        "2026-11-07/carousel-04.jpg"
       ],
-      "asset_available_locally": true,
-      "public_media_urls": [],
-      "media_binary_location": "not uploaded; Floot S3 DNS resolution failed; GitHub binary transfer unavailable",
-      "buffer_status": "not_submitted",
-      "reason": "No verified public direct media URLs; no Buffer post created."
+      "dimensions": [
+        1080,
+        1350
+      ],
+      "public_media_urls": [
+        "https://raw.githubusercontent.com/artclass11/arcstudio-ai/main/2026-11-07/carousel-01.jpg",
+        "https://raw.githubusercontent.com/artclass11/arcstudio-ai/main/2026-11-07/carousel-02.jpg",
+        "https://raw.githubusercontent.com/artclass11/arcstudio-ai/main/2026-11-07/carousel-03.jpg",
+        "https://raw.githubusercontent.com/artclass11/arcstudio-ai/main/2026-11-07/carousel-04.jpg"
+      ],
+      "media_binary_location": "Public GitHub raw media in artclass11/arcstudio-ai",
+      "github_actions_run_id": 42379945651,
+      "buffer_status": "sent",
+      "buffer_post_id": "6aef3126d6bbae6fa18f715f",
+      "buffer_post_url": "https://www.instagram.com/p/DfcXRJPlZU1/",
+      "buffer_sent_at": "2026-11-07T14:10:11.202Z",
+      "buffer_mode": "shareNow"
     },
     {
       "date": "2026-11-07",
@@ -103,7 +124,7 @@
       "asset_available_locally": false,
       "public_media_url": null,
       "buffer_status": "held",
-      "reason": "DOCS Marketing Agency Reel standard not met; no MP4 created."
+      "reason": "DOCS Marketing Agency Reel standard not met; no final MP4 or human full-watch approval."
     }
   ]
 }
