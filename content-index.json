@@ -64,6 +64,46 @@
       "public_media_url": null,
       "buffer_status": "not_submitted",
       "reason": "Public upload blocked by DNS failure on large-file transfer. No Buffer post created."
+    },
+    {
+      "date": "2026-11-07",
+      "format": "feed",
+      "topic": "Residential balcony thermal-bridge connection",
+      "manifest": "2026-11-07/post-manifest.json",
+      "asset_filename": "2026-11-07_ARCSTUDIO91_FEED_BALCONY-THERMAL-BRIDGE_1080x1350.jpg",
+      "asset_available_locally": true,
+      "public_media_url": null,
+      "media_binary_location": "not uploaded; Floot S3 DNS resolution failed; GitHub binary transfer unavailable",
+      "buffer_status": "not_submitted",
+      "reason": "No verified public direct media URL; no Buffer post created."
+    },
+    {
+      "date": "2026-11-07",
+      "format": "carousel",
+      "topic": "Rooftop PV due diligence: roof age, structural capacity, shading, drainage, maintenance access and sourcing",
+      "manifest": "2026-11-07/post-manifest.json",
+      "asset_filenames": [
+        "2026-11-07_ARCSTUDIO91_CAROUSEL_01_ROOFTOP-PV-OVERVIEW_1080x1350.jpg",
+        "2026-11-07_ARCSTUDIO91_CAROUSEL_02_ROOF-SUITABILITY_1080x1350.jpg",
+        "2026-11-07_ARCSTUDIO91_CAROUSEL_03_DRAINAGE-STRUCTURE-ACCESS_1080x1350.jpg",
+        "2026-11-07_ARCSTUDIO91_CAROUSEL_04_SOURCING-CONTACT_1080x1350.jpg"
+      ],
+      "asset_available_locally": true,
+      "public_media_urls": [],
+      "media_binary_location": "not uploaded; Floot S3 DNS resolution failed; GitHub binary transfer unavailable",
+      "buffer_status": "not_submitted",
+      "reason": "No verified public direct media URLs; no Buffer post created."
+    },
+    {
+      "date": "2026-11-07",
+      "format": "reel",
+      "topic": "Research-stage quadruped robot + BIM inspection",
+      "manifest": "2026-11-07/post-manifest.json",
+      "asset_filename": null,
+      "asset_available_locally": false,
+      "public_media_url": null,
+      "buffer_status": "held",
+      "reason": "DOCS Marketing Agency Reel standard not met; no MP4 created."
     }
   ]
 }
