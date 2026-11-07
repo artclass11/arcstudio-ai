@@ -15,19 +15,25 @@
     {
       "format": "feed",
       "topic": "Residential balcony thermal-bridge connection",
-      "asset_filename": "2026-11-07_ARCSTUDIO91_FEED_BALCONY-THERMAL-BRIDGE_1080x1350.jpg",
+      "asset_filename": "2026-11-07/feed.jpg",
       "dimensions": [
         1080,
         1350
       ],
-      "bytes": 264545,
-      "sha256": "fe44748a8f2b563ef6c5e3ad3480e9e0070c4b6e05fd10d67ef67f6c76159755",
-      "caption": "काँक्रीटची बाल्कनी स्लॅब भिंतीतून आतल्या मजल्याशी सलग जोडली असेल, तर काही हवामानांत ती उष्णता आत-बाहेर नेणारा मार्ग ठरू शकते. यालाच थर्मल ब्रिज म्हणतात.\n\nथर्मल-ब्रेक कनेक्टर, स्वतंत्र आधार किंवा सलग बाह्य इन्सुलेशन यांसारखे पर्याय डिझाइनच्या टप्प्यावर तपासता येतात. मात्र ही जोडणी भारवाहक असते. म्हणून संरचनात्मक अभियंता, जलरोधक तपशील, अग्निसुरक्षा, गंज, स्थानिक हवामान आणि इमारतीतील आर्द्रता यांचा एकत्रित विचार आवश्यक आहे. प्रत्येक इमारतीला एकच तपशील लागू होत नाही.\n\nहे मूळ संकल्पनाचित्र आहे; प्रत्यक्ष प्रकल्पाचा फोटो नाही.\n\nवास्तुरचना व जागा नियोजनासाठी WhatsApp: +91 9921894495\nवेबसाइट: https://headless-jcrzxssmnuf-myastate-1408.wix-site-host.com/\n\n#ARCSTUDIO91 #बाल्कनीडिझाइन #थर्मलब्रिज #वास्तुरचना #इमारतआवरण #ऊर्जाक्षमता #बांधकामतपशील",
+      "bytes": 103190,
+      "sha256": "fcfdb931728066b356532d160c16ae32213bec9d",
+      "caption": "काँक्रीटची बाल्कनी स्लॅब भिंतीतून आतल्या मजल्याशी सलग जोडली असेल, तर काही हवामानांत ती उष्णता आत-बाहेर नेणारा मार्ग ठरू शकते. यालाच थर्मल ब्रिज म्हणतात.\n\nथर्मल-ब्रेक कनेक्टर, स्वतंत्र आधार किंवा सलग बाह्य इन्सुलेशन यांसारखे पर्याय डिझाइनच्या टप्प्यावर तपासता येतात. मात्र ही जोडणी भारवाहक असते. म्हणून संरचनात्मक अभियंता, जलरोधक तपशील, अग्निसुरक्षा, गंज, स्थानिक हवामान आणि इमारतीतील आर्द्रता यांचा एकत्रित विचार आवश्यक आहे. प्रत्येक इमारतीला एकच तपशील लागू होत नाही.\n\nहे मूळ संकल्पनाचित्र आहे; प्रत्यक्ष प्रकल्पाचा फोटो नाही.\n\nवास्तुरचना व जागा नियोजनासाठी WhatsApp: +91 9921894495\nवेबसाइट: https://headless-tvyedsvzngn-myastate-1408.wix-site-host.com/\n\n#ARCSTUDIO91 #बाल्कनीडिझाइन #थर्मलब्रिज #वास्तुरचना #इमारतआवरण #ऊर्जाक्षमता #बांधकामतपशील",
       "alt_text": "गडद पार्श्वभूमीवरील संकल्पनात्मक भिंत-छेद. डावीकडे बाहेरील बाल्कनी, उजवीकडे आतील खोली, मध्ये काँक्रीटची स्लॅब आणि भिंतीच्या जोडणीवर दाखवलेला भारवाहक थर्मल-ब्रेक घटक.",
       "visual_disclosure": "मूळ प्रक्रियात्मक संकल्पनाचित्र; प्रत्यक्ष प्रकल्पाचा फोटो नाही.",
-      "media_status": "not_uploaded",
-      "buffer_status": "not_submitted",
-      "reason": "Floot S3 DNS resolution failed; GitHub binary transfer unavailable; no verified direct public media URL."
+      "media_status": "public_GitHub_binary",
+      "buffer_status": "sent",
+      "reason": "Floot S3 DNS resolution failed; GitHub binary transfer unavailable; no verified direct public media URL.",
+      "original_local_asset_filename": "2026-11-07_ARCSTUDIO91_FEED_BALCONY-THERMAL-BRIDGE_1080x1350.jpg",
+      "public_media_url": "https://raw.githubusercontent.com/artclass11/arcstudio-ai/main/2026-11-07/feed.jpg",
+      "buffer_post_id": "6aef3105d6bbae6fa18f6996",
+      "buffer_post_url": "https://www.instagram.com/p/DfcXLOFlc25/",
+      "buffer_sent_at": "2026-11-07T14:09:17.539Z",
+      "buffer_mode": "shareNow"
     },
     {
       "format": "carousel",
@@ -35,55 +41,75 @@
       "slides": [
         {
           "order": 1,
-          "filename": "2026-11-07_ARCSTUDIO91_CAROUSEL_01_ROOFTOP-PV-OVERVIEW_1080x1350.jpg",
+          "filename": "carousel-01.jpg",
           "dimensions": [
             1080,
             1350
           ],
-          "bytes": 249883,
-          "sha256": "d87972dda7d5097f2d81c01ab2804115ea249f0346d9e63e4f46c83edbecf1d0",
-          "alt_text": "संकल्पनात्मक छत-आराखडा: पॅनेलची मांडणी, मोकळा सेवा-मार्ग आणि पाण्याच्या निचऱ्याचे बिंदू."
+          "bytes": 109094,
+          "sha256": "f3a3e5885c41e7406cca2ed7cf9fefcc7b4506c1",
+          "alt_text": "संकल्पनात्मक छत-आराखडा: पॅनेलची मांडणी, मोकळा सेवा-मार्ग आणि पाण्याच्या निचऱ्याचे बिंदू.",
+          "public_media_url": "https://raw.githubusercontent.com/artclass11/arcstudio-ai/main/2026-11-07/carousel-01.jpg"
         },
         {
           "order": 2,
-          "filename": "2026-11-07_ARCSTUDIO91_CAROUSEL_02_ROOF-SUITABILITY_1080x1350.jpg",
+          "filename": "carousel-02.jpg",
           "dimensions": [
             1080,
             1350
           ],
-          "bytes": 218820,
-          "sha256": "d302da5d43925e927330d6eda4d9d48cee7f238ea36e2001e2fd43767776a803",
-          "alt_text": "छताचा बाजूचा छेद: पॅनेल, सावली देणारी अडथळा-रचना आणि छताचे वय, भारक्षमता, सावली, दिशा व उतार यांची तपासणी यादी."
+          "bytes": 102144,
+          "sha256": "2fc8434d361fdac7755ebff7d8a11769542283be",
+          "alt_text": "छताचा बाजूचा छेद: पॅनेल, सावली देणारी अडथळा-रचना आणि छताचे वय, भारक्षमता, सावली, दिशा व उतार यांची तपासणी यादी.",
+          "public_media_url": "https://raw.githubusercontent.com/artclass11/arcstudio-ai/main/2026-11-07/carousel-02.jpg"
         },
         {
           "order": 3,
-          "filename": "2026-11-07_ARCSTUDIO91_CAROUSEL_03_DRAINAGE-STRUCTURE-ACCESS_1080x1350.jpg",
+          "filename": "carousel-03.jpg",
           "dimensions": [
             1080,
             1350
           ],
-          "bytes": 249452,
-          "sha256": "d21ce4ebd82e10e612079629306dad85d017f854fd6c4cdf5f051a878576b9b3",
-          "alt_text": "सौर पॅनेलची माउंटिंग रेल, छतावरील थर आणि निचऱ्याचा मार्ग दाखवणारे विस्फोटित संकल्पचित्र; देखभाल प्रवेश, भार व जलरोधकता यांवरील सूचना."
+          "bytes": 112445,
+          "sha256": "25f8e3ec7c55aa613f30d7e731022ae99949e8f0",
+          "alt_text": "सौर पॅनेलची माउंटिंग रेल, छतावरील थर आणि निचऱ्याचा मार्ग दाखवणारे विस्फोटित संकल्पचित्र; देखभाल प्रवेश, भार व जलरोधकता यांवरील सूचना.",
+          "public_media_url": "https://raw.githubusercontent.com/artclass11/arcstudio-ai/main/2026-11-07/carousel-03.jpg"
         },
         {
           "order": 4,
-          "filename": "2026-11-07_ARCSTUDIO91_CAROUSEL_04_SOURCING-CONTACT_1080x1350.jpg",
+          "filename": "carousel-04.jpg",
           "dimensions": [
             1080,
             1350
           ],
-          "bytes": 230154,
-          "sha256": "f63330675a00f6b6017ad72df66dbe9a866168987f281cb5de0078beadb4bdda",
+          "bytes": 105693,
+          "sha256": "ba6d0001859f72d3a4f40a5ebc924ce3750f38cf",
           "alt_text": "सौर मॉड्यूल, इन्व्हर्टर, माउंटिंग रेल, जलरोधकता, केबल-सुरक्षा आणि देखभाल यांची पुरवठादार तपासणी यादी; वर संपर्क क्रमांक, खाली सेवा-सूची आणि अधिकृत वेबसाइट.",
-          "phone_artwork_placement": "top of slide 4 only"
+          "phone_artwork_placement": "top of slide 4 only",
+          "public_media_url": "https://raw.githubusercontent.com/artclass11/arcstudio-ai/main/2026-11-07/carousel-04.jpg"
         }
       ],
-      "caption": "छतावर सौर पॅनेल बसवण्याआधी फक्त पॅनेलची क्षमता किंवा किंमत पाहू नका. छताचे वय, संरचनात्मक भारक्षमता, सावली, छताची जलरोधकता, पाण्याचा निचरा, देखभालीचा मार्ग आणि अग्निसुरक्षा तपासा.\n\nछताची दुरुस्ती जवळ आली असेल, तर पॅनेल बसवण्याआधी ती करणे योग्य ठरू शकते. माउंटिंग पद्धत, अँकरिंग, वारा-भार, स्थानिक नियम, छताची वॉरंटी आणि भविष्यातील देखभाल यांचा लेखी तपशील घ्या. उत्पादनाचा अंदाज स्थानिक सूर्यस्थिती, सावली, वापर, उपकरणे आणि वीजदरांवर अवलंबून असतो; निश्चित बचतीचे आश्वासन देता येत नाही.\n\nपुरवठादार निवडताना उत्पादन माहिती, चाचणी कागदपत्रे, हमी अटी, जलरोधक जोडणी आणि सेवा-जाळे तपासा. संरचनात्मक व विद्युत डिझाइन पात्र तज्ज्ञांकडून पडताळा.\n\nवास्तुरचना व प्रकल्प समन्वयासाठी WhatsApp: +91 9921894495\nवेबसाइट: https://headless-jcrzxssmnuf-myastate-1408.wix-site-host.com/\n\n#ARCSTUDIO91 #सौरऊर्जा #छतावरीलसौरप्रणाली #वास्तुरचना #इमारतदेखभाल #छतडिझाइन #ऊर्जानियोजन",
+      "caption": "छतावर सौर पॅनेल बसवण्याआधी फक्त पॅनेलची क्षमता किंवा किंमत पाहू नका. छताचे वय, संरचनात्मक भारक्षमता, सावली, छताची जलरोधकता, पाण्याचा निचरा, देखभालीचा मार्ग आणि अग्निसुरक्षा तपासा.\n\nछताची दुरुस्ती जवळ आली असेल, तर पॅनेल बसवण्याआधी ती करणे योग्य ठरू शकते. माउंटिंग पद्धत, अँकरिंग, वारा-भार, स्थानिक नियम, छताची वॉरंटी आणि भविष्यातील देखभाल यांचा लेखी तपशील घ्या. उत्पादनाचा अंदाज स्थानिक सूर्यस्थिती, सावली, वापर, उपकरणे आणि वीजदरांवर अवलंबून असतो; निश्चित बचतीचे आश्वासन देता येत नाही.\n\nपुरवठादार निवडताना उत्पादन माहिती, चाचणी कागदपत्रे, हमी अटी, जलरोधक जोडणी आणि सेवा-जाळे तपासा. संरचनात्मक व विद्युत डिझाइन पात्र तज्ज्ञांकडून पडताळा.\n\nवास्तुरचना व प्रकल्प समन्वयासाठी WhatsApp: +91 9921894495\nवेबसाइट: https://headless-tvyedsvzngn-myastate-1408.wix-site-host.com/\n\n#ARCSTUDIO91 #सौरऊर्जा #छतावरीलसौरप्रणाली #वास्तुरचना #इमारतदेखभाल #छतडिझाइन #ऊर्जानियोजन",
       "visual_disclosure": "मूळ प्रक्रियात्मक माहितीचित्रे; पूर्ण झालेल्या प्रकल्पाची छायाचित्रे नाहीत.",
-      "media_status": "not_uploaded",
-      "buffer_status": "not_submitted",
-      "reason": "Floot S3 DNS resolution failed; GitHub binary transfer unavailable; no verified direct public media URLs."
+      "media_status": "public_GitHub_binaries",
+      "buffer_status": "sent",
+      "reason": "Floot S3 DNS resolution failed; GitHub binary transfer unavailable; no verified direct public media URLs.",
+      "asset_filenames": [
+        "2026-11-07/carousel-01.jpg",
+        "2026-11-07/carousel-02.jpg",
+        "2026-11-07/carousel-03.jpg",
+        "2026-11-07/carousel-04.jpg"
+      ],
+      "public_media_urls": [
+        "https://raw.githubusercontent.com/artclass11/arcstudio-ai/main/2026-11-07/carousel-01.jpg",
+        "https://raw.githubusercontent.com/artclass11/arcstudio-ai/main/2026-11-07/carousel-02.jpg",
+        "https://raw.githubusercontent.com/artclass11/arcstudio-ai/main/2026-11-07/carousel-03.jpg",
+        "https://raw.githubusercontent.com/artclass11/arcstudio-ai/main/2026-11-07/carousel-04.jpg"
+      ],
+      "buffer_post_id": "6aef3126d6bbae6fa18f715f",
+      "buffer_post_url": "https://www.instagram.com/p/DfcXRJPlZU1/",
+      "buffer_sent_at": "2026-11-07T14:10:11.202Z",
+      "buffer_mode": "shareNow"
     },
     {
       "format": "reel",
@@ -173,5 +199,24 @@
     "static_assets": "passed package-level visual/dimension checks with concept-art disclosure",
     "reel": "HOLD",
     "overall": "PARTIAL"
+  },
+  "github_actions_build": {
+    "workflow_run_id": 42379945651,
+    "workflow_path": ".github/workflows/social-media-assets.yml",
+    "result": "success",
+    "repository": "artclass11/arcstudio-ai",
+    "generated_files": "2026-11-07/*.jpg",
+    "renderer": "Pillow/Noto Sans Devanagari; static editorial concept diagrams"
+  },
+  "publishing_summary": {
+    "platform": "Instagram",
+    "account": "@arcstudio91",
+    "feed": "sent",
+    "carousel": "sent",
+    "reel": "held",
+    "feed_post_url": "https://www.instagram.com/p/DfcXLOFlc25/",
+    "carousel_post_url": "https://www.instagram.com/p/DfcXRJPlZU1/",
+    "generated_image_dimensions": "1080x1350",
+    "visual_disclosure": "original procedural editorial diagrams; not photographs of completed projects"
   }
 }
