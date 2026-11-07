@@ -1,0 +1,57 @@
+{
+  "brand": {
+    "display": "ARCSTUDIO91",
+    "account": "@arcstudio91",
+    "footer": "ARCSTUDIO91",
+    "contact": "+91 9921894495"
+  },
+  "feed": {
+    "title": "बाल्कनीची स्लॅब उष्णतेचा मार्ग बनू शकते?",
+    "subtitle": "BUILDING ENVELOPE / DETAIL STUDY",
+    "diagram": "thermal",
+    "notes": [
+      "थर्मल ब्रिजमुळे उष्णतेचा प्रवाह वाढू शकतो",
+      "जोडणी संरचनात्मक तज्ज्ञांकडून तपासा"
+    ],
+    "phone_allowed": true
+  },
+  "carousel": [
+    {
+      "title": "छतावर सौर पॅनेल? आधी जागा तपासा.",
+      "subtitle": "ROOFTOP PV / SITE PLANNING",
+      "diagram": "solar",
+      "notes": [
+        "छताचे वय आणि सावली तपासा",
+        "सेवा मार्ग आणि निचरा ठेवा"
+      ]
+    },
+    {
+      "title": "छताची स्थिती योग्य-योजनेचा पाया.",
+      "subtitle": "ROOF CONDITION / CHECK FIRST",
+      "diagram": "checklist",
+      "notes": [
+        "भारक्षमता आणि जलरोधकता तपासा",
+        "दुरुस्ती आधी करावी लागू शकते"
+      ]
+    },
+    {
+      "title": "पॅनेल बसले तरी छताची कामे थांबत नाहीत.",
+      "subtitle": "WATERPROOFING / ACCESS",
+      "diagram": "solar",
+      "notes": [
+        "देखभाल प्रवेश आणि अग्निसुरक्षा",
+        "अँकरिंग, वारा-भार आणि वॉरंटी तपासा"
+      ]
+    },
+    {
+      "title": "पुरवठादाराकडून काय लेखी घ्याल?",
+      "subtitle": "SPECIFICATION / SUPPLIER CHECK",
+      "diagram": "checklist",
+      "notes": [
+        "उत्पादन माहिती, चाचणी, हमी",
+        "संरचनात्मक व विद्युत पडताळणी"
+      ],
+      "phone_allowed": true
+    }
+  ]
+}
