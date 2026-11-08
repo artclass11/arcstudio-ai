@@ -1,0 +1,27 @@
+{
+  "date": "2026-11-08",
+  "timezone": "Asia/Kolkata",
+  "brand": "ARCSTUDIO91",
+  "instagram_account": "@arcstudio91",
+  "platform": "Instagram",
+  "repository": "artclass11/arcstudio-ai",
+  "branch": "main",
+  "source_run_status": "failed",
+  "formats": [
+    {
+      "format": "reel",
+      "production_status": "failed",
+      "asset_filename": null,
+      "public_media_url": null,
+      "buffer_status": "not_submitted",
+      "buffer_post_id": null,
+      "buffer_post_url": null,
+      "reason": "No final media asset or exact-hash DOCS human creative approval was available. No post was submitted."
+    }
+  ],
+  "youtube_handoff": {
+    "status": "not_created",
+    "reason": "No final approved MP4 available for YouTube adaptation."
+  },
+  "disclosure": "Status-only record. No video or image asset is included, and this does not represent a published post."
+}
