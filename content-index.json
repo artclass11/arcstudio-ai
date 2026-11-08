@@ -125,6 +125,18 @@
       "public_media_url": null,
       "buffer_status": "held",
       "reason": "DOCS Marketing Agency Reel standard not met; no final MP4 or human full-watch approval."
+    },
+    {
+      "date": "2026-11-08",
+      "format": "reel",
+      "topic": null,
+      "manifest": "2026-11-08/post-manifest.json",
+      "asset_filename": null,
+      "asset_available_locally": false,
+      "public_media_url": null,
+      "production_status": "failed",
+      "buffer_status": "not_submitted",
+      "reason": "The 2026-11-08 ARCSTUDIO91 source-task run failed. No final Reel MP4 or exact-hash DOCS human approval record was available; no Buffer post was created."
     }
   ]
 }
