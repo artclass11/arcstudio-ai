@@ -1,0 +1,95 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-11-14",
+  "brand": "ARCSTUDIO91",
+  "format": "youtube_short_preproduction",
+  "topic": "Expansion joints: why a deliberate gap matters in a building",
+  "audience": "Marathi-speaking homeowners, students and people curious about construction details",
+  "language": "mr-IN",
+  "target_duration_seconds": 52,
+  "aspect_ratio": "9:16",
+  "resolution": "1080x1920",
+  "editorial_angle": "Explain thermal movement and why an engineered joint is not the same as an accidental crack; no site-specific diagnosis.",
+  "hook": "इमारतीतली प्रत्येक सरळ फट चूक नसते.",
+  "narration_script": "मोठ्या इमारतीत दिसणारी ठरावीक सरळ फट कधी कधी expansion joint असू शकते. तापमान बदलल्यावर बांधकाम साहित्य फैलावते किंवा आकुंचन पावते; shrinkage आणि इतर संरचनात्मक हालचालीही होतात. योग्य डिझाइन केलेला joint या हालचालींसाठी नियंत्रित जागा देतो. भारताच्या National Building Code मध्ये joint चे स्थान आणि तपशील ठरवताना तापमान, हवामानातील exposure आणि संरचनेची रचना विचारात घेण्यावर भर आहे. पण प्रत्येक फट expansion joint नसते आणि प्रत्येक इमारतीला सारखा तपशील लागू होत नाही. Joint ची रुंदी, अंतर आणि waterproofing तज्ज्ञ structural engineer नेच ठरवावे. दिसणारी crack असल्यास स्वतः निष्कर्ष काढू नका—प्रत्यक्ष तपासणी करून घ्या.",
+  "storyboard": [
+    {
+      "time": "0-5s",
+      "shot": "Slow lateral dolly along a clean architectural concrete corridor; a deliberate movement joint comes into focus.",
+      "on_screen": "ही फट मुद्दाम ठेवली असू शकते"
+    },
+    {
+      "time": "5-13s",
+      "shot": "Macro cutaway of two building sections; subtle thermal expansion/contraction arrows animate in opposite directions.",
+      "on_screen": "तापमान बदल = हालचाल"
+    },
+    {
+      "time": "13-22s",
+      "shot": "An exploded 3D section reveals the engineered gap and flexible joint filler; no exact dimensions are asserted.",
+      "on_screen": "Expansion joint हालचालीस जागा देतो"
+    },
+    {
+      "time": "22-33s",
+      "shot": "Two blocks move slightly through a day/night cycle while the joint accommodates the movement.",
+      "on_screen": "रचना • तापमान • exposure"
+    },
+    {
+      "time": "33-44s",
+      "shot": "Split visual distinguishes a planned joint detail from an irregular crack; text warns not to diagnose from appearance alone.",
+      "on_screen": "प्रत्येक फट joint नसते"
+    },
+    {
+      "time": "44-52s",
+      "shot": "Near-black, dark-pine and ivory closing frame with ARCSTUDIO91, website and WhatsApp.",
+      "on_screen": "ARCSTUDIO91 | +91 9921894495"
+    }
+  ],
+  "visual_identity": {
+    "palette": [
+      "#101713",
+      "#18231E",
+      "#F3F0E8",
+      "#C9CEC5"
+    ],
+    "style": "minimal contemporary architecture, natural light, realistic material scale, no gold or luxury ornament"
+  },
+  "youtube": {
+    "channel": "Aset",
+    "channel_id": "6af01ffc62b70b94b0baef5e",
+    "title": "इमारतीत Expansion Joint का ठेवतात? | ARCSTUDIO91",
+    "categoryId": "28",
+    "privacy": "public",
+    "description": "Expansion joint तापमानातील बदल आणि संरचनेच्या हालचालींसाठी कसा उपयोगी ठरतो ते समजून घ्या. प्रत्येक crack ही expansion joint नसते; साइटवरील तपासणी सक्षम structural engineer ने करावी.\n\nSources:\nhttps://www.bis.gov.in/standards/national-building-code/?lang=en\nhttps://hsamb.org.in/sites/default/files/documents/National%20Building%20code%20of%20India%20-%202016%20%28Volume-I%29%20NBC1.pdf\n\nARCSTUDIO91: https://headless-jcrzxssmnuf-myastate-1408.wix-site-host.com/\nWhatsApp: +91 9921894495\n#ARCSTUDIO91 #Architecture #Construction #BuildingDesign #Marathi"
+  },
+  "sources": [
+    {
+      "publisher": "Bureau of Indian Standards",
+      "url": "https://www.bis.gov.in/standards/national-building-code/?lang=en",
+      "supports": "NBC 2016 is India's model code covering structural design, construction and building safety."
+    },
+    {
+      "publisher": "National Building Code of India 2016 (Volume I, hosted by HSAMB)",
+      "url": "https://hsamb.org.in/sites/default/files/documents/National%20Building%20code%20of%20India%20-%202016%20%28Volume-I%29%20NBC1.pdf",
+      "supports": "Section 9.10 describes expansion joints, expected thermal movement, earthquake pounding and designer discretion."
+    }
+  ],
+  "rights_and_production": {
+    "assets": "No site footage, construction footage, music, font or recorded voice included yet. Build an original sectional 3D animation; label any rendering as illustrative.",
+    "narration": "Human-recorded Marathi or tested, rights-cleared natural neural narration required; no eSpeak.",
+    "render_worker": "Not available in this session.",
+    "final_mp4": null
+  },
+  "release": {
+    "status": "HOLD",
+    "reasons": [
+      "No final MP4 rendered or decoded.",
+      "No qualified Marathi narration or full-script audition record.",
+      "Exact-file human full-watch/full-listen approval is still required for ARCSTUDIO91.",
+      "No asset-level rights manifest or final SHA-256 exists."
+    ]
+  },
+  "destinations": {
+    "youtube": "Aset; independently eligible after YouTube-specific quality, rights and exact-file human approval pass.",
+    "instagram": "@arcstudio91 is connected; no Instagram post created from this pre-production brief."
+  }
+}
